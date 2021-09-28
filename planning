@@ -1,0 +1,4 @@
+# Future improvements to the script:
+
+1. Allow the use of arguments to speed up the use of the script.
+2. Add if/ else statements to allow searching for any of the characteristics instead of just the first one.
